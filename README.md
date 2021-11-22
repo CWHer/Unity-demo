@@ -12,6 +12,18 @@
 
   Animate the arms.
 
+- [x] **Building a Graph**
+
+  Create a prefab.
+
+  Instantiate multiple cubes.
+
+  Show a mathematical function.
+
+  Create a surface shader and shader graph.
+
+  Animate the graph.
+
 - [ ] ...
 
  

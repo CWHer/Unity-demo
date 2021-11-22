@@ -1,5 +1,7 @@
 # Unity引擎入门和C#编程入门
 
+![](README.assets/preview.png)
+
 ## Features
 
 - [x] **Game Objects and Scripts**

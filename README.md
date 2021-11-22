@@ -2,13 +2,23 @@
 
 ## Features
 
-- [ ] **创建一个时钟**
+- [x] **Game Objects and Scripts**
+
+  Build a clock with simple objects.
+
+  Write a C# script.
+
+  Rotate the clock's arms to show the time.
+
+  Animate the arms.
+
 - [ ] ...
 
  
 
 ## 参考资料
 
+1. [_Unity Tutorials: Basics_](https://catlikecoding.com/unity/tutorials/basics/)
 1. [_Unity基础教程系列(新)_](https://zhuanlan.zhihu.com/p/346208723)
 2. [_Unity引擎入门和C#编程入门5篇_](https://zhuanlan.zhihu.com/p/159120874)
 3. [_[教程汇总+持续更新]Unity从入门到入坟_](https://zhuanlan.zhihu.com/p/151238164)

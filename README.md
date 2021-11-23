@@ -26,6 +26,16 @@
 
   Animate the graph.
 
+- [x] **Mathematical Surfaces**
+
+  Create a function library.
+
+  Use a delegate and an enumeration type.
+
+  Display 2D functions with a grid.
+
+  Define surfaces in 3D space.
+
 - [ ] ...
 
  

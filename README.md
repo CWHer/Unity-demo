@@ -1,6 +1,8 @@
-# Unity引擎入门和C#编程入门
+# Unity入门
 
-![](README.assets/preview.png)
+![](README.assets/basics.png)
+
+![](README.assets/movement.png)
 
 ## Features
 
@@ -36,7 +38,31 @@
 
   Define surfaces in 3D space.
 
+- [x] **Measuring Performance**
+
+  Use game window stats, frame debugger, and profiler.
+
+  Compare dynamic batching, GPU instancing, and SRP batcher.
+
+  Display a frame rate counter.
+
+  Cycle through functions automatically.
+
+  Smoothly transition between functions.
+
 - [ ] ...
+
+- [x] **Sliding a Sphere**
+
+  Put a sphere with a trail on a plane.
+
+  Position the sphere based on player input.
+
+  Control velocity and acceleration.
+
+  Limit the sphere's position and make it bounce off edges
+
+- [ ] 
 
  
 
